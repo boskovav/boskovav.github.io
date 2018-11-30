@@ -8,12 +8,12 @@ I am a computational biologist interested in phyodynamics of viruses and genomic
 
 ### Academic appointments   
 **2019 - now** PostDoc at CIBIV Vienna  
-` ` ` ` _funded by Swiss National Science Foundation_  
+&nbsp;&nbsp;&nbsp;&nbsp;_funded by Swiss National Science Foundation_  
 **2017 - 2018** PostDoc at ETH Zurich
 
 ### Education  
 **2013 - 2017** PhD at ETH Zurich  
-    _in Computational Evolution group_  
+bla _in Computational Evolution group_  
 **2011 - 2013** MSc at ETH Zurich and University of Zurich  
         _in Computational Biology and Bioinformatics_  
 **2008 - 2011** MSc at Utrecht University  
