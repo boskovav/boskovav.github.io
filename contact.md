@@ -2,7 +2,7 @@
 layout: page
 title: Contact me  
 ---
-<center>
+ </p align="justify">
 Visit me:  
 Veronika Bošková  
 CIBIV group  
@@ -11,4 +11,4 @@ Vienna 1030
 Austria  
 
 or write me an [Email](mailto:"veronika.boskova@bsse.ethz.ch")
-</center>
+ </p>
