@@ -9,12 +9,12 @@
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fa-research-gate"
+  icon: "fa-researchgate"
 
 googlescholar:
   name: "GoogleScholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-gscholar"
+  icon: "fa-google"
 
 facebook:
   name: "Facebook"
