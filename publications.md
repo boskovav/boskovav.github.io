@@ -5,7 +5,7 @@ title: Peer reviewed articles
 
 **2018**
 
-“The influence of phylodynamic model specifications on parameter estimates of the Zika virus epidemic.” _Veronika Boskova_, Tanja Stadler, and Carsten Magnus. Virus Evolution, 4(1): vex044 (DOI: [10.1093/ve/vex044](https://doi.org/10.1093/ve/vex044))
+“The influence of phylodynamic model specifications on parameter estimates of the Zika virus epidemic.” **Veronika Boskova**, Tanja Stadler, and Carsten Magnus. Virus Evolution, 4(1): vex044 (DOI: [10.1093/ve/vex044](https://doi.org/10.1093/ve/vex044))
       
 **2017**  
     
