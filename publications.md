@@ -1,10 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: bla
----
-
-## Peer reviewed articles  
+title: Peer reviewed articles
+---  
 
 **2018**
 
@@ -12,7 +9,7 @@ subtitle: bla
       
 **2017**  
     
-“Taming the BEAST - A Community Teaching Material Resource for BEAST 2.” Joëlle Barido-Sottani&ast;, **Veronika Bošková**&ast;, Louis Du Plessis&ast;, Denise Kühnert&ast;, Carsten Magnus&ast;, Venelin Mitov&ast;, Nicola F. Müller&ast;, Jūlija Pečerska&ast;, David A. Rasmussen&ast;, Chi Zhang&ast;, Alexei J. Drummond, Tracy A. Heath, Oliver G. Pybus, Timothy G. Vaughan, and Tanja Stadler. Systematic Biology, 67(1): 170-174 (DOI: [10.1093/sysbio/syx060](https://doi.org/10.1093/sysbio/syx060))
+“Taming the BEAST - A Community Teaching Material Resource for BEAST 2.” Joëlle Barido-Sottani\*, **Veronika Bošková**\*, Louis Du Plessis\*, Denise Kühnert\*, Carsten Magnus\*, Venelin Mitov\*, Nicola F. Müller\*, Jūlija Pečerska\*, David A. Rasmussen\*, Chi Zhang\*, Alexei J. Drummond, Tracy A. Heath, Oliver G. Pybus, Timothy G. Vaughan, and Tanja Stadler. Systematic Biology, 67(1): 170-174 (DOI: [10.1093/sysbio/syx060](https://doi.org/10.1093/sysbio/syx060))
 
 **2016**  
     
@@ -33,4 +30,4 @@ subtitle: bla
 “Systematic biases in DNA copy number originate from isolation procedures.” Sebastiaan van Heesch, Michal Mokry, **Veronika Boskova**, Wade Junker, Rajdeep Mehon, Pim Toonen, Ewart de Bruijn, James D Shull, Timothy J Aitman, Edwin Cuppen, and Victor Guryev. Genome biology, 14(4): R33 (DOI:[10.1186/gb-2013-14-4-r33](https://doi.org/10.1186/gb-2013-14-4-r33))
 
 
-&ast; shared fist authors
+\* shared fist authors

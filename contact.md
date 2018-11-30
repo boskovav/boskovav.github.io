@@ -1,10 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: bla
+title: Contact me  
 ---
-
-## Contact me  
 
 Visit me:  
 Veronika Bošková  

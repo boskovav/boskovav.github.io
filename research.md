@@ -1,10 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: bla
+title: Research
 ---
-
-## Research  
 
 Phylogenetic tools applied to sequence data reconstruct a phylogenetic tree, a network structure that displays how the individuals in the population are related to each other. Phylodynamic tools take the inference a step further, by providing an estimate of the dynamics of the population that these individuals came from. When set in a Bayesian statistics framework, inferences of the phylogeny and the population dynamics are done simultaneously, rather than in a step-wise manner as in the maximum likelihood approach. This allows for possible uncertainty in the inference of the phylogeny to be integrated over when inferring the population dynamic parameters, but it also poses higher computational burden.
 
