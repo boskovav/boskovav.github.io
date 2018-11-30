@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Peer reviewed articles
 ---
-
+## Peer reviewed articles  
 
 **2018**
 

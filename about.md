@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 
-subtitle: 
 ---
+
 ## About me
 
-I am a computational biologist interested in phyodynamics of viruses and genomics, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.
-<img src="/img/VB_bw.png" alt="Drawing" style="width: 150px;" hspace="15px" align="right"/>
+<img src="/img/VB_bw.png" alt="Drawing" style="width: 150px;" hspace="15px" align="right"/> I am a computational biologist interested in phyodynamics of viruses and genomics, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.
 
 ### Academic appointments   
 **2019 - now** PostDoc at CIBIV Vienna (funded by Swiss National Science Foundation)  
