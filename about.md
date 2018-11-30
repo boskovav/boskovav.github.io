@@ -10,7 +10,7 @@ title: About me
 **2017 - 2018** PostDoc at ETH Zurich
 
 ### Education  
-<p>**2013 - 2017** PhD at ETH Zurich<\p>   <p>_in Computational Evolution group_ <\p>
+<p>**2013 - 2017** PhD at ETH Zurich</p>   <p>_in Computational Evolution group_ </p>
 **2011 - 2013** MSc at ETH Zurich and University of Zurich  _in Computational Biology and Bioinformatics_  
 **2008 - 2011** MSc at Utrecht University  _in Biomedical Sciences: Cancer Genomics and Developmental Biology_  
 **2005 - 2008** BSc at University College Utrecht  _in Liberal Arts and Sciences with major in Science_  

@@ -10,7 +10,7 @@ Bayesian phylodynamics is a very powerful tool when inferring important epidemio
 I develop fast methods to advance the use of Bayesian phylodynamics for deep sequencing data. 
 
 **Understanding models**  
-Crucial for correct application of any model is understanding of its drawbacks and strength. I therefore research at what conditions do the phylodynamic methods fail, by providing incorret parameter estimates. By understanding why exactly do the existing models break, provides fruitful grouds for ideas on further methods development.
+Crucial for correct application of any model is the awareness of its drawbacks and strength. I therefore research at what conditions do the phylodynamic methods fail, by providing incorret parameter estimates. Understanding of why exactly do the existing models break provides fruitful grouds for ideas on further methods development.
 
 **Applications**  
 I am interested in learing how the infections spread and how we can prevent epidemics. I therefore apply the phylodynamic models to real data to learn how quickly the infection spreads in the population and when it originated.
