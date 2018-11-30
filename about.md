@@ -13,7 +13,7 @@ I am a computational biologist interested in phyodynamics of viruses and genomic
 
 ### Education  
 **2013 - 2017** PhD at ETH Zurich  
-        _in Computational Evolution group_  
+    _in Computational Evolution group_  
 **2011 - 2013** MSc at ETH Zurich and University of Zurich  
         _in Computational Biology and Bioinformatics_  
 **2008 - 2011** MSc at Utrecht University  
