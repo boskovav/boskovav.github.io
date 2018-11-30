@@ -4,7 +4,6 @@ title: About me
 ---
 
 <img src="/img/VB_bw.png" alt="Drawing" style="width: 200px;" align="center"/> 
-
 I am a computational biologist interested in phyodynamics of viruses and genomics, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.  
 
 ### Academic appointments   
