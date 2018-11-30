@@ -1,5 +1,7 @@
 ---
 layout: page
+title: 
+subtitle: bla
 ---
 
 ## Contact me  
