@@ -11,4 +11,4 @@ Dr. Bohr Gasse 9
 Vienna 1030   
 Austria  
 
-or write me an [Email](mailto:"2584478+boskovav@users.noreply.github.com")
+or write me an [Email](mailto:"veronika.boskova@bsse.ethz.ch")
