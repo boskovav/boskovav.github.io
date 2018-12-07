@@ -22,15 +22,15 @@ I am a computational biologist interested in phyodynamics of viruses and genomic
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_in Liberal Arts and Sciences with major in Science_  
 
 ### Programming languages  
-Java, R, bash and basics of C++, python and perl
+Java, R, Bash and basics of C++, Python and Perl
 
 #### Keywords  
 Computational biology  
-bioinformatics  
+Bioinformatics  
 Bayesian statistics  
-phylogenetics  
-phylodynamics  
-next-generation sequencing  
-scientific programming  
+Phylogenetics  
+Phylodynamics  
+Next-generation sequencing  
+Scientific programming  
 
 For full CV please [contact me]("https://boskovav.github.io/contact/")
