@@ -27,7 +27,7 @@ title: Peer reviewed articles
 
 **2013**  
 
-“Systematic biases in DNA copy number originate from isolation procedures.” Sebastiaan van Heesch, Michal Mokry, **Veronika Boskova**, Wade Junker, Rajdeep Mehon, Pim Toonen, Ewart de Bruijn, James D Shull, Timothy J Aitman, Edwin Cuppen, and Victor Guryev. Genome biology, 14(4): R33 (DOI:[10.1186/gb-2013-14-4-r33](https://doi.org/10.1186/gb-2013-14-4-r33))
+“Systematic biases in DNA copy number originate from isolation procedures.” Sebastiaan van Heesch, Michal Mokry, **Veronika Boskova**, Wade Junker, Rajdeep Mehon, Pim Toonen, Ewart de Bruijn, James D Shull, Timothy J Aitman, Edwin Cuppen, and Victor Guryev. Genome biology, 14(4): R33 (DOI: [10.1186/gb-2013-14-4-r33](https://doi.org/10.1186/gb-2013-14-4-r33))
 
 
 \* shared fist authors
