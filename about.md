@@ -33,4 +33,4 @@ Phylodynamics
 Next-generation sequencing  
 Scientific programming  
 
-For full CV please [contact me]("https://boskovav.github.io/contact/")
+For full CV please [contact me]("../contact")
