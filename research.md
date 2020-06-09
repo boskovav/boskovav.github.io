@@ -1,4 +1,7 @@
---- layout: page title: Research ---
+---
+layout: page 
+title: Research 
+---
 
 I am generally interesting in data analysis and modeling. I have had my
 hands dirty with human genetic data, (raw) deep sequencing data but also
