@@ -4,7 +4,7 @@ title: About me
 ---
 
 <img src="/img/VB_bw.png" alt="Drawing" style="width: 200px;" hspace="50px;" align="right"/>
-I am a computational biologist interested in phylodynamics of viruses and genomics, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.  
+I am a bioinformatician interested in modeling and data analysis, especially of epidemic spread, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.  
 
 ### Academic appointments   
 **2019 - now** PostDoc at CIBIV Vienna  
@@ -25,12 +25,10 @@ I am a computational biologist interested in phylodynamics of viruses and genomi
 Java, R, Bash and basics of C++, Python and Perl
 
 #### Keywords  
-Computational biology  
 Bioinformatics  
-Bayesian statistics  
-Phylogenetics  
-Phylodynamics  
-Next-generation sequencing  
+Data analysis
+Bayesian statistics    
 Scientific programming  
+Modeling
 
 For full CV please [contact me](/contact)

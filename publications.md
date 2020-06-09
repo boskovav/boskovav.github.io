@@ -3,6 +3,10 @@ layout: page
 title: Peer reviewed articles
 ---  
 
+**2020**
+
+“PIQMEE: Bayesian phylodynamic method for analysis of large datasets with duplicate sequences.” **Veronika Boskova** and Tanja Stadler. Molecular Biology and Evolution, msaa136 (DOI: [10.1093/molbev/msaa136](https://doi.org/10.1093/molbev/msaa136))
+  
 **2018**
 
 “The influence of phylodynamic model specifications on parameter estimates of the Zika virus epidemic.” **Veronika Boskova**, Tanja Stadler, and Carsten Magnus. Virus Evolution, 4(1): vex044 (DOI: [10.1093/ve/vex044](https://doi.org/10.1093/ve/vex044))

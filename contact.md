@@ -12,5 +12,5 @@ Dr. Bohr Gasse 9  <br/>
 Vienna 1030 <br/>   
 Austria  <br/>
 <br/>
-or write me an <a href = "mailto: veronika.boskova@bsse.ethz.ch">Email</a>
+or write me an <a href = "mailto: boskovav57@univie.ac.at">Email</a>
 </div>
