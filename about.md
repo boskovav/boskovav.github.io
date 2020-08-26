@@ -8,7 +8,7 @@ I am a bioinformatician interested in modeling and data analysis, especially of 
 
 ### Academic appointments   
 **2019 - now** PostDoc at CIBIV Vienna  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_funded by Swiss National Science Foundation_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_partially funded by Swiss National Science Foundation_  
 **2017 - 2018** PostDoc at ETH Zurich
 
 ### Education  
@@ -27,6 +27,7 @@ Java, R, Bash and basics of C++, Python and Perl
 #### Keywords  
 Bioinformatics  
 Data analysis  
+Machine learning
 Bayesian statistics  
 Scientific programming  
 Modeling
