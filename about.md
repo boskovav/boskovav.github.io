@@ -7,8 +7,12 @@ title: About me
 I am a bioinformatician interested in modeling and data analysis, especially of epidemic spread, currently based at Center for Integrative Bioinformatics Vienna (CIBIV) in Austria.  
 
 ### Academic appointments   
-**2019 - now** PostDoc at CIBIV, Max Perutz Labs, Vienna  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_partially funded by Swiss National Science Foundation_  
+**2019 - now** PostDoc at Max Perutz Labs, Vienna  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_in Center for Integrative Bioinformatics Vienna_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_partially funded by Swiss National Science Foundation_
+
 **2017 - 2018** PostDoc at ETH Zurich
 
 ### Education  
