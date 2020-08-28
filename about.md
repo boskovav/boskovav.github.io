@@ -28,7 +28,7 @@ Java, R, Bash and basics of C++, Python and Perl
 #### Keywords  
 Bioinformatics  
 Data analysis  
-Machine learning
+Machine learning  
 Bayesian statistics  
 Scientific programming  
 Modeling
